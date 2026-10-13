@@ -1,0 +1,2 @@
+== Ejercicio 0 ==
+Entrar por HTTP, aceptar y mensajes por WebSocket, y la dirección del túnel por HTTP.
